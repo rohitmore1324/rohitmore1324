@@ -9,14 +9,14 @@
 ## 👨‍💻 About Me
 
 - 👨‍🎓 I'm a passionate developer skilled in **designing scalable web apps**, integrating intelligent systems, and building robust full-stack solutions.
-- 🌱 Currently enhancing my expertise in **Next.js**, **Firebase authentication & hosting**, and **backend APIs using Node.js**.
+- 🌱 Currently enhancing my expertise in **Next.js**, **Spring Boot**, **Firebase authentication & hosting**, and **MongoDB/MySQL integration**.
 - 🤝 Open to:
   - Contributing to **open-source projects**
   - Collaborating on **real-world SaaS ideas**
   - Joining **student-focused tech communities**
 - 🧠 I believe in continuous learning and transforming ideas into clean, maintainable code.
 - 📨 **Reach me at:**
-  - 📧 [rohitmorep1324@gmail.com](mailto:rohitmore1324@gmail.com)
+  - 📧 [rohitmore1324@gmail.com](mailto:rohitmore1324@gmail.com)
   - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rohitmore1324)
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun Fact**: I enjoy reverse-engineering apps and figuring out how things work under the hood.
@@ -32,14 +32,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### 🔹 Backend & DB  
+### 🔹 Backend & Databases  
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 🔹 Tools & Platforms  
@@ -47,6 +53,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
 </p>
 
 ---
@@ -66,17 +76,6 @@
   - Team collaboration using Git/GitHub & Agile boards like Trello
   - Clear communicator, self-motivated, and proactive learner
   - Good time management and project planning skills
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **Top 5%** in competitive coding contests *(e.g., HackerRank, LeetCode)*
-- 📜 **Certified in Full Stack Development** – Udemy / Coursera
-- 🎓 **Final Year Project Selected** for Inter-College Showcase
-- 🏅 **Hackathon Finalist** at [Event Name]
-
----
 
 ## 📌 Featured Projects
 
@@ -103,7 +102,7 @@
 ## 🌐 Let’s Connect!
 
 <p>
-  <a href="mailto:rohitmore1324@gmail.com">
+  <a href="mailto:rohitmorep1324@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rohitmore1324">
