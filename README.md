@@ -6,89 +6,237 @@
 
 ---
 
-## 👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Rohit More</h1>
 
-- 👨‍🎓 I'm a passionate developer skilled in **designing scalable web apps**, integrating intelligent systems, and building robust full-stack solutions.
-- 🌱 Currently enhancing my expertise in **Next.js**, **Spring Boot**, **Firebase authentication & hosting**, and **MongoDB/MySQL integration**.
-- 🤝 Open to:
-  - Contributing to **open-source projects**
-  - Collaborating on **real-world SaaS ideas**
-  - Joining **student-focused tech communities**
-- 🧠 I believe in continuous learning and transforming ideas into clean, maintainable code.
-- 📨 **Reach me at:**
-  - 📧 [rohitmore1324@gmail.com](mailto:rohitmore1324@gmail.com)
-  - 💼 [LinkedIn Profile](https://www.linkedin.com/in/rohitmore1324)
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I enjoy reverse-engineering apps and figuring out how things work under the hood.
+<h3 align="center">
+MERN Stack Developer | React.js Developer | Frontend Focused
+</h3>
 
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<p align="center">
+Passionate about building modern, scalable web applications and creating responsive user experiences.
 </p>
 
-### 🔹 Backend & Databases  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🔹 Tools & Platforms  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=rohitmore1324">
+<img src="https://komarev.com/ghpvc/?username=rohitmore1324&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
 </p>
 
 ---
 
-## 🧩 Additional Highlights
+# 👨‍💻 About Me
 
-- 🔍 **Strong Problem Solver**: Regularly practice DSA and enjoy solving real-world problems using algorithmic thinking.
-- 🧪 **Tech Explorer**: Always eager to explore new frameworks, cloud tools, and emerging tech like AI, Blockchain, and DevOps.
-- 🌍 **Community Contributor**: Active participant in tech meetups, open-source events, and hackathons.
-- 📚 **Lifelong Learner**: Enrolled in courses from platforms like Coursera, Udemy, and freeCodeCamp to level up consistently.
-- 📈 **Growth Mindset**: Love getting feedback, improving workflows, and adopting industry best practices like CI/CD, clean code, and design patterns.
-- 🧰 **Worked On**:
-  - REST API integration & testing with Postman
-  - Authentication with Firebase, JWT, and OAuth
-  - Deployment using Vercel, Netlify & Render
-- 🧠 **Soft Skills**:
-  - Team collaboration using Git/GitHub & Agile boards like Trello
-  - Clear communicator, self-motivated, and proactive learner
-  - Good time management and project planning skills
-
-## 📌 Featured Projects
-
-- 🔗 [**Blockchain in Fintech**](https://crypto-pay-next-lbls-dineshsk12s-projects.vercel.app/)  
-  Real-time digital payment system leveraging blockchain technology.
-  
-- 🔗 **Rent-to-Ride** *(Coming Soon)*  
-  Full-stack bike rental platform using React and Spring Boot for seamless ride management.
-
-- 🔗 **Disaster Management Dashboard** *(In Progress)*  
-  Integrated alert system with live map, disaster reporting, and volunteer tracking.
+* 💻 MERN Stack Developer with strong focus on **React.js frontend development**
+* ⚛️ Experienced in building **dynamic, responsive UI using React Hooks and modern JavaScript**
+* 🔗 Skilled in **REST API integration and backend communication**
+* 🔐 Implemented **JWT Authentication and Role-Based Access Systems**
+* 🧠 Strong understanding of **MVC architecture and full-stack application flow**
+* 🌱 Currently learning **Next.js, scalable backend architecture, and system design**
+* 🚀 Interested in **Full Stack Development, SaaS products, and AI-integrated web applications**
 
 ---
+
+# 📫 Contact Me
+
+📧 Email: **[rohitmorep1324@gmail.com](mailto:rohitmorep1324@gmail.com)**
+💼 LinkedIn: **https://www.linkedin.com/in/rohitmore1324**
+💻 GitHub: **https://github.com/rohitmore1324**
+
+---
+
+# 🛠️ Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs"/>
+</p>
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+* Next.js (Learning)
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java"/>
+</p>
+
+* Node.js
+* Express.js
+* REST API Development
+* JWT Authentication
+* Core Java
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+</p>
+
+* MongoDB
+* MySQL
+* Firebase Authentication & Hosting
+
+---
+
+## Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify"/>
+</p>
+
+* Git
+* GitHub
+* VS Code
+* Postman
+* Vercel
+* Netlify
+* Render
+
+---
+
+# 💼 Experience
+
+## React.js Intern — Opshells
+
+**Feb 2024 – Sep 2024**
+
+* Developed **reusable and responsive UI components** using React.js
+* Used **React Hooks** for state management and lifecycle handling
+* Integrated **REST APIs** with frontend applications
+* Improved application performance through optimized component rendering
+* Followed **Git-based version control and modular coding practices**
+
+---
+
+## Full Stack Trainee — Kiran Academy
+
+**Feb 2025 – Aug 2025**
+
+* Built **full-stack MERN applications**
+* Implemented **JWT authentication and protected routes**
+* Designed backend **REST APIs using Node.js and Express**
+* Created dynamic React dashboards with API integration
+
+---
+
+# 📌 Featured Projects
+
+## 🧑‍💼 Job Portal – MERN Stack
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
+
+Features:
+
+* Role-based access system (Admin, Recruiter, Job Seeker)
+* Secure authentication using JWT
+* Job posting and application tracking system
+* Recruiter dashboard for job management
+* Dynamic React dashboard with backend API integration
+
+---
+
+## ⭐ Store Rating Platform
+
+**Tech Stack:** React.js, Node.js, Express.js, MySQL
+
+Features:
+
+* User review and store rating system
+* Admin panel for store and user management
+* Backend APIs built with Express.js
+* Fully responsive React frontend
+
+---
+
+## 🎓 InternGrove – Internship Platform
+
+**Tech Stack:** React.js, Tailwind CSS, Firebase
+
+Features:
+
+* Internship listing platform
+* Firebase authentication system
+* Clean UI with reusable components
+* Responsive mobile-friendly layout
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohitmore1324&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmore1324&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmore1324&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmore1324&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+* Improving **Data Structures & Algorithms**
+* Learning **Next.js and advanced backend architecture**
+* Building **scalable full-stack SaaS projects**
+* Contributing to **open source projects**
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="mailto:rohitmorep1324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohitmore1324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohitmore1324">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ **“Code is not just about writing programs — it's about solving problems and building impactful solutions.”**
+
+<!--
+This repository is special because its README appears on your GitHub profile.
+-->
+
 
 ## 📊 GitHub Stats
 
