@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit More</h1>
 
-<p align="center">
-🚀 Web Developer | 🤖 ML Enthusiast | 💻 Full Stack Developer  
-</p>
-
----
-
-<h1 align="center">Hi 👋, I'm Rohit More</h1>
-
 <h3 align="center">
 MERN Stack Developer | React.js Developer | Frontend Focused
 </h3>
@@ -236,33 +228,3 @@ Features:
 <!--
 This repository is special because its README appears on your GitHub profile.
 -->
-
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitmore1324&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmore1324&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
-## 🌐 Let’s Connect!
-
-<p>
-  <a href="mailto:rohitmorep1324@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rohitmore1324">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-> _“Code is not just what you write, it's how you think.”_
-
-<!---
-rohitmore1324/rohitmore1324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
